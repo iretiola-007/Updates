@@ -1,0 +1,10 @@
+## Sigh
+Hey everyone😪
+Unfortunately, Mood Meals is down for a while. 
+I don't really remember how, but I accidentally created wayy too many bugs in my code and now the cards are going haywire with different displays. 
+If I can find that/those nasty bug(s) before the day ends, then I won't need to rewrite all my code.
+Here's how it started: 
+It was working perfectly until I got curious and decided to toggle desktop mode on my browser (yeah yeah I sometimes code on my phone). So here's what went wrong. The images looked really really tiny... so I know they say responsiveness makes stuff look good on mobile because the pixels are way lesser on the screen than on a laptop's or tablet's screen, well it has to look good on all devices.
+I tried to fix that, especially and only the recipe-card section and stuff went wrong. 
+Omg😭😭 whyyyyy😭😭😭
+I tried using AI to debug (I mean ChatGPT) and each tweak made it even worse😭😭😂
