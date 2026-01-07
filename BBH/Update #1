@@ -1,0 +1,15 @@
+Hey everyone👋🏻😅
+
+Been a while I posted updates here, so sorry 'bout that
+Debugging just got real — here’s what’s new in BBH!
+Okay, this is my first update on Bug Bounty Hunter 
+
+It’s a browser-based puzzle game where you debug code to progress😅
+So I'm currently tryna improve how it works. I got a suggestion from Codecademy's community on Circle concerning storage. I decided to use sessionStorage instead of localStorage.
+Not gonna lie, I did not know that sessionStorage existed as a means of storage. 
+
+This is one of the reasons to be in a community — experts get to advise you, and you learn a whole lot more. I switched to sessionStorage because it clears data when the tab closes, which suits my game better than localStorage.
+
+My next step is to add more bugs to the problem set🥴
+
+Ciao✌🏻
