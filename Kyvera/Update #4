@@ -1,0 +1,4 @@
+New features:
+string concatenation
+separated logical comparison parsing
+proper operator precedence
